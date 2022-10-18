@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <math.h>
+#include<stdio.h>
+#include<math.h>
 
 int main()
 {
@@ -15,11 +15,11 @@ int main()
     printf("Enter the value of c: ");
     scanf("%d", &c);
 
-    s = (a+b+c)/2;                              // Semi-Perimeter
+    s=(a+b+c)/2;                                // Semi-Perimeter
 
     A=sqrt(s*(s-a)*(s-b)*(s-c));                // Heron's Formula
 
-    printf("Area of the triangle: %.2f", A);
+    printf("Area of the triangle: %.2f", A);    // .number determines the size of Fractional Part
 
     return 0;
 }

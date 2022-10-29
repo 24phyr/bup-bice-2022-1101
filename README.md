@@ -17,3 +17,11 @@ List of Source codes for ICE1101 and ICE1102 Syllabus
 [Right Angle Pyramid]  
 [Star Pyramid]  
 [Reverse Pyramid]  
+[Calculator using Function]()  
+[NCR using Function]()  
+[Power Function]()  
+[Odd Even using Function]()  
+[Square using Function]()  
+[Armstrong and Perfect Number using Function]()  
+[Array Copy]()  
+[Average of an Array]()  

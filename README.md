@@ -17,11 +17,11 @@ List of Source codes for ICE1101 and ICE1102 Syllabus
 [Right Angle Pyramid]  
 [Star Pyramid]  
 [Reverse Pyramid]  
-[Calculator using Function]()  
-[NCR using Function]()  
-[Power Function]()  
-[Odd Even using Function]()  
-[Square using Function]()  
-[Armstrong and Perfect Number using Function]()  
-[Array Copy]()  
-[Average of an Array]()  
+[Calculator using Function](https://github.com/24phyr/bup-bice-2022/blob/main/ICE1101-2/calc-using-function.c)  
+[NCR using Function](https://github.com/24phyr/bup-bice-2022/blob/main/ICE1101-2/ncr-using-function.c)  
+[Power Function](https://github.com/24phyr/bup-bice-2022/blob/main/ICE1101-2/power-using-function.c)  
+[Odd Even using Function](https://github.com/24phyr/bup-bice-2022/blob/main/ICE1101-2/odd-even-using-function.c)  
+[Square using Function](https://github.com/24phyr/bup-bice-2022/blob/main/ICE1101-2/square-using-function.c)  
+[Armstrong and Perfect Number using Function](https://github.com/24phyr/bup-bice-2022/blob/main/ICE1101-2/armstrong-and-perfect-using-function.c)  
+[Array Copy](https://github.com/24phyr/bup-bice-2022/blob/main/ICE1101-2/array-copy.c)  
+[Average of an Array](https://github.com/24phyr/bup-bice-2022/blob/main/ICE1101-2/array-average.c)  

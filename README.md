@@ -12,8 +12,8 @@ List of Source codes for ICE1101 and ICE1102 Syllabus
 [Grade System](https://github.com/24phyr/bup-bice-2022/blob/main/ICE1101-2/grade-system.c)  
 [Days in a month and a year using switch-case](https://github.com/24phyr/bup-bice-2022/blob/main/ICE1101-2/days-in-a-month-a-year.c)  
 [Multiplication Table](https://github.com/24phyr/bup-bice-2022/blob/main/ICE1101-2/multiplication-table.c)  
-[Binary to Decimal]  
-[1/1+1/2+1/3+....=?]  
+[Binary to Decimal](https://github.com/24phyr/bup-bice-2022/blob/main/ICE1101-2/binary-to-decimal.c)  
+[1/1+1/2+1/3+....=?](https://github.com/24phyr/bup-bice-2022/blob/main/ICE1101-2/harmonic-series.c)  
 [Right Angle Pyramid]  
 [Star Pyramid]  
 [Reverse Pyramid]  

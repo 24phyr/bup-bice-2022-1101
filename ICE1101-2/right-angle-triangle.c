@@ -8,7 +8,7 @@ int main()
     base=4;
     perpendicular=3;
 
-    Area=(base*perpendicular)/2;                //formula to get the area of right angle triangle
+    Area=(base*perpendicular)/2;                // Formula to get the area of right angle triangle
 
     printf("Area of the Triangle:""%f", Area);
 

@@ -16,14 +16,14 @@ int main()
     if(n==1)
     {
         i=j;
-        printf("Swapped Value of i:""%d", i);
+        printf("Swapped Value of i:%d", i);
 
         return 0;
     }
     else
     {
         j=i;
-        printf("Swapped Value of j:""%d", j);
+        printf("Swapped Value of j:%d", j);
 
         return 0;
     }

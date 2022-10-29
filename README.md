@@ -7,7 +7,7 @@ List of Source codes for ICE1101 and ICE1102 Syllabus
 [Area of Circle](https://github.com/24phyr/bup-bice-2022/blob/main/ICE1101-2/circle-area.c)  
 [CM to inch and vice versa using Macro](https://github.com/24phyr/bup-bice-2022/blob/main/ICE1101-2/cm-to-inch.c)  
 [(A+B)²](https://github.com/24phyr/bup-bice-2022/blob/main/ICE1101-2/whole-square.c)  
-[Variables Swap]  
+[Variables Swap](https://github.com/24phyr/bup-bice-2022/blob/main/ICE1101-2/variables-swap.c)  
 [Variables Swap using if-else](https://github.com/24phyr/bup-bice-2022/blob/main/ICE1101-2/variable-swap-if-else.c)  
 [Grade System](https://github.com/24phyr/bup-bice-2022/blob/main/ICE1101-2/grade-system.c)  
 [Days in a month and a year using switch-case](https://github.com/24phyr/bup-bice-2022/blob/main/ICE1101-2/days-in-a-month-a-year.c)  

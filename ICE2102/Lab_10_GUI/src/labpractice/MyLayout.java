@@ -6,9 +6,9 @@ public class MyLayout {
   JFrame f;
   MyLayout() {
     f = new JFrame();
-    f.setSize(200,200); // Box er Size
+    f.setSize(200,200); // Box size
     f.setLayout(null);
-    f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // To close NetBeans Instance
+    f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // To close NetBeans instance
     
     JButton b1=new JButton("1");
     JButton b2=new JButton("Test 2");
